@@ -1,0 +1,17 @@
+<h1 align="center">Sharayu Darandale</h1>
+<h3 align="center">Web Developer</h3>
+<img align="right" alt="coding" width="400"src="https://qph.cf2.quoracdn.net/main-qimg-a6dc26a08bb184c176bd420d149829b5">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharayudarandale&label=Profile%20views&color=0e75b6&style=flat" alt="sharayudarandale" /> </p>
+
+- 📫 How to reach me **sharayudarandale107@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sharayu-darandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharayu-drandale" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sharayu_Darandale01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sharayu_Darandale01" height="30" width="40" /></a>
+</p>
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=vaishalisjadhav&theme=light&date_format=j%20M%5B%20Y%5D" alt="streak stats"/><br></br>
+</div>
